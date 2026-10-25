@@ -1,0 +1,21 @@
+{
+  "name": "moneyguru",
+  "version": "1.0.0",
+  "description": "MoneyGuru — Personal finance management web application (Portfolio Project)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "personal-finance",
+    "portfolio",
+    "budgeting",
+    "savings",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {}
+}
